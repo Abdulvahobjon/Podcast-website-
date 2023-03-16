@@ -6,11 +6,9 @@ export default function Hero() {
     <section className="min-h-screen flex items-center justify-center">
     <div className="max-w-[1024px] w-[90%] mx-auto flex  items-center justify-center flex-col-reverse md:flex-row gap-10">
       <div className="flex-1  text-center md:text-left">
-        <h1 className="text-4xl md:text-[60px] font-bold text-primary leading-tight uppercase">The Audio People</h1>
-        <p className="text-sm md:text-lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore esse unde
-          sunt possimus minus aut
-          voluptas asperiores </p>
-        <a href="#" className="btn-primary">Start Listening</a>
+        <h1 className="text-4xl md:text-[60px] font-bold text-primary leading-tight uppercase">NQE Podkast</h1>
+        <p className="text-sm md:text-lg">Nozik Qalb Egalari podkasti qaytdi😁 . Yana bir ajoyib podcast. Maza qilib ko'ring.  Ketkizgan vaqtimga achinmaydigan darajada. </p>
+        <a href="#listened" className="btn-primary">Ko'rishni boshlang</a>
       </div>
       <div className="flex-1 ">
         <div className="w-full h-[50vh] md:h-screen overflow-hidden relative">
